@@ -8,6 +8,6 @@ We utilized JavaScript, D3, and the Leaflet library to gather the coordinates an
 ## Main Objective
 The primary goal of this project was to visually display the differences in earthquake magnitudes across the globe over a seven-day period using three layers:
 
-Tectonic Plates
-Earthquakes
-Major Earthquakes.
+* Tectonic Plates
+* Earthquakes
+* Major Earthquakes.
